@@ -2,18 +2,15 @@
 
 - University student
 - I'm currently learning with ALX
-- Still building skills in Software engineering and Web development🏋️‍♂️
-- Looking to start digital art
-- Current goal: Learn more about JavaScript(a lot more!!)🎯
+🏋️‍♂️ Still building skills in Software engineering and Web development
+🎯 Current goal: Learn more about JavaScript(a lot more!!)
 
 
 ## Connect:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/edsegofvr#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/edsegofvr#gh-dark-mode-only)
+[![twitter](src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg")](https://twitter.com/edsegofvr)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
+[![linkedin](src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg")](https://linkedin.com/in/edmund-sagoe)
 
 
 ## Languages & Tools
