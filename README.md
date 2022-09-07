@@ -9,8 +9,8 @@
 
 ## Connect:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/edsegofvr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/edsegofvr#gh-dark-mode-only)
+[(./img/twitter-light.svg)](https://twitter.com/edsegofvr#gh-light-mode-only)
+[(./img/twitter-dark.svg)](https://twitter.com/edsegofvr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
+[(./img/linkedin-dark.svg)](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
