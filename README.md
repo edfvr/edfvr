@@ -9,8 +9,11 @@
 
 ## Connect:
 
-[![linkedin]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only")][linkedin]
-[![twitter]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#gh-light-mode-only")][twitter]
+[![twitter](./img/twitter-light.svg)](https://twitter.com/edsegofvr#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/edsegofvr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
 
 
 ## Languages & Tools
