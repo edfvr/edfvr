@@ -9,8 +9,8 @@
 
 ## Connect:
 
-[<img align= "left" alt= "Edmund | Twitter" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#gh-light-mode-only" />] [twitter]
-[<img align= "left" alt= "Edmund | LinkedIn" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" />] [linkedin]
+[![linkedin]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only")][linkedin]
+[![twitter]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#gh-light-mode-only")][twitter]
 
 
 ## Languages & Tools
