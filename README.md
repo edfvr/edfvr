@@ -27,5 +27,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/edmund-sagoe
 [twitter]: https://twitter.com/edsegofvr
+[linkedin]: https://linkedin.com/in/edmund-sagoe
