@@ -12,7 +12,7 @@
 [<img alt="twitter profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/edsegofvr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img alt="linkedin profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
-[<img alt="linkedin profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/edmund-sagoe#ghdark-dark-mode-only)
+[<img alt="linkedin profile" align="left" height="32px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
 
 
 ## Languages & Tools
