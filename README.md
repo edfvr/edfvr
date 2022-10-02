@@ -1,7 +1,7 @@
 # Welcome, I'm Edmund
 
 
-I'm an ALX Software Engineering student, and after a few months I've learnt not just the programming; a positive attitude towards my learning which has made me much more productive.
+I'm an ALX Software Engineering student, and after a few months I've learnt not just the programming; a positive learning attitude which has made me more productive.
 Summary of my skills: 
 - A month into learning C (thoroughly this time!). 
 - I have got some experience with HTML and CSS.
