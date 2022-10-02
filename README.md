@@ -1,25 +1,13 @@
 # Welcome, I'm Edmund
 
-- University student
-- I'm currently learning with ALX
-<<<<<<< HEAD
-- Still building skills in Software engineering and Web development
-- Looking to start digital art
-- Current goal: Learn more about JavaScript(a lot more!!)
 
-## Connect:
+I'm an ALX Software Engineering student, and after a few months I've learnt not just the programming; a positive attitude towards my learning which has made me much more productive.
+Summary of my skills: 
+- A month into learning C (thoroughly this time!). 
+- I have got some experience with HTML and CSS.
+- I'm learning Java Sript too.
 
-[(./img/twitter-light.svg)](https://twitter.com/edsegofvr#gh-light-mode-only)
-[(./img/twitter-dark.svg)](https://twitter.com/edsegofvr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[(./img/linkedin-light.svg)](https://linkedin.com/in/edmund-sagoe#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://linkedin.com/in/edmund-sagoe#gh-dark-mode-only)
-=======
-- 🏋️‍♂️ Still building skills in Software engineering and Web development
-- 🎯 Current goal: Learn more about JavaScript(a lot more!!)
-
-
-## Connect:
+## Reach me via:
 
 [<img alt="twitter profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/edsegofvr#gh-light-mode-only)
 [<img alt="twitter profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/edsegofvr#gh-dark-mode-only)
@@ -43,4 +31,3 @@
 
 [twitter]: https://twitter.com/edsegofvr
 [linkedin]: https://linkedin.com/in/edmund-sagoe
->>>>>>> c247b77af1bb395311a6a405849d45ab6c4baddc
