@@ -5,7 +5,7 @@ I'm an ALX Software Engineering student, and after a few months I've learnt not 
 Summary of my skills: 
 - A month into learning C (thoroughly this time!). 
 - I have got some experience with HTML and CSS.
-- I'm learning Java Sript too.
+- I'm learning Java Script too.
 
 ## Reach me via:
 
