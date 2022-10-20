@@ -3,7 +3,8 @@
 
 I'm an ALX Software Engineering student, and after a few months I've learnt not just the programming; a positive learning attitude which has made me more productive.
 
-Summary of my skills
+Skills summary
+---
 - Still learning C (thoroughly this time!). 
 - I have got some experience with HTML and CSS.
 
