@@ -5,9 +5,9 @@ I'm an ALX Software Engineering student, and after a few months I've learnt not 
 
 Skills summary
 ---
-- Still learning C (thoroughly this time!). 
+- Still learning C. 
 - I have got some experience with HTML and CSS.
-
+- Learning JavaScript.
 ## Reach me via:
 
 [<img alt="twitter profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/edsegofvr#gh-light-mode-only)
