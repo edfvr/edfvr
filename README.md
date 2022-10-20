@@ -8,7 +8,7 @@ Skills summary
 - Still learning C. 
 - I have got some experience with HTML and CSS.
 - Learning JavaScript.
-## Reach me via:
+## Reach me via
 
 [<img alt="twitter profile" align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/edsegofvr#gh-light-mode-only)
 [<img alt="twitter profile" align="left" height="26px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/edsegofvr#gh-dark-mode-only)
