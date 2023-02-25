@@ -1,8 +1,5 @@
 # Welcome, I'm Edmund
 
-
-I'm an ALX Software Engineering student, and after a few months I've learnt not just the programming; a positive learning attitude which has made me more productive.
-
 Skills summary
 ---
 - Still learning C. 
