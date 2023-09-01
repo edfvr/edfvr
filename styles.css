@@ -1,0 +1,533 @@
+/*Mobile-First Design*/
+:root {
+  --logo: #67568c;
+  --hamburger: #1f1235;
+ /*welcome-section*/
+ --welcome-bg: #fdefe6;
+ --welcome-topic: #0d0d0d;
+ --welcome-subtopic: #2a2a2a;
+ --welcome-btn: #ff8e3c;
+ --welcome-btn-text: #0d0d0d;
+ /*section*/
+ /*projects-section*/
+ --portfolio-bg: #0f0e17;
+ --portfolio-topic: #a7a9be;
+ --portfolio-subtopic: #a7a9be;
+ --tile-bg: #301e4e;
+ --tile-topic: #301e4e;
+ --tile-p: #f4f0fc; 
+ --tile-highlight: #1b1425;
+ /*section*/
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /*font-family:Verdana, Geneva, Tahoma, sans-serif*/;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  
+  /*font-family: 'Roboto', sans-serif;*/
+}
+
+li {
+  list-style: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/*-----------HAMBURGER MENU------------*/
+.hamburger{
+  display: block;
+  cursor: pointer;
+}
+
+.bar{
+  display: block;
+  width: 20px;
+  height: 3px;
+  border-radius: 10px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: var(--hamburger);
+}
+
+.hamburger :nth-child(2) {
+  width: 25px;
+}
+
+.hamburger.active .bar:nth-child(2){
+  opacity: 0;
+}
+.hamburger.active .bar:nth-child(1){
+  transform: translateY(8px) rotate(45deg);
+}
+.hamburger.active .bar:nth-child(3){
+  transform: translateY(-8px) rotate(-45deg);
+}
+/*----------------------------------*/
+
+/*---------------nav-bar-------------------*/
+.nav-bar {
+  z-index: 2;
+  position: fixed;
+  width: 100vw;
+  min-height: 10vh;
+  min-width: 70px;
+  display: flex;
+  background-color: #ffffff;
+  /*transition: transform 0.3s ease-out;*/
+  box-shadow: 10px 0 50px rgba(0, 0, 0, 0.226);
+}
+
+.inner-nav {
+  width: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  padding: 0 24px;
+}
+
+/*.nav-bar--hidden {
+  transform: translateY(-150%);
+}*/
+
+.nav-modal{
+  right: -100%;
+  background-color: #ffffff;
+  position: absolute;
+  align-self: center;
+  overflow: hidden;
+}
+
+.nav-modal.active{
+  width: 40vw;
+  height: 50vh;
+  right: 0;
+  top: 12vh;
+  position: fixed;
+  margin-right: 8px;
+  border-radius: 20px;
+  transition: 0.3s;
+  padding: 5%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+}
+
+.nav-menu{
+  align-self: center;
+  flex-direction: column;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+.nav-branding{
+  font-size: 2em;
+  font-family: 'Bigelow Rules', cursive;
+  display: block;
+  color: var(--logo);
+}
+
+.nav-branding :first-child {
+  font-family: 'Vast Shadow', cursive;
+}
+
+.nav-item{
+  text-transform:capitalize;
+  padding: 2% 0;
+  color: #000000;
+  border-bottom: 1px solid #2b2b2b;
+}
+
+.nav-item:hover {
+  opacity: 1;
+  transition: .3s;
+}
+
+.nav-link{
+  color: #2b2b2b;
+}
+
+/*---------------END OF nav-bar-------------------*/
+
+
+/*----------------SECTIONS------------------*/
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/* 1. Welcome Section */
+#welcome-section {
+  background-color: var(--welcome-bg);
+  min-height: 100vh;
+}
+
+#welcome-section .topic {
+  font-family: 'Bowlby One', cursive;
+}
+
+#welcome p {
+  color: var();
+}
+
+.header {
+  height: max-content;
+  text-align: center;
+}
+
+.midcard {
+  background-image: url(public/header.jpg);
+  height: 45vh;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+
+.bottomcard {
+  width: 90%;
+  height: 20vh;
+  text-align: justify;
+  margin: 3% auto 0;
+}
+
+.panel {
+  margin: 25px auto 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+/*Resume button*/
+.resume-btn, .show-all {
+  display: inline-flex;
+  border-radius: 10px;
+  border: transparent solid 2px;
+  padding: 10px 20px 10px 10px;
+  background-color: var(--welcome-btn);
+  color: var(--welcome-btn-text);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bolder;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.resume-btn:hover {
+  border: 2px solid;
+  box-shadow: 0 5px var(--hamburger);
+}
+
+.button-icon {
+  padding-right: 4px;
+}
+
+/*Icons panel*/
+.icons-panel {
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/*Icons beside Resume button*/
+.panel i{
+  color: var(--welcome-btn-text);
+  display: inline-flex;
+  cursor: pointer;
+}
+
+.panel .mail-icon {
+  border: transparent solid 1.5px;
+  border-radius: 100px;
+  border-color: var(--welcome-btn-text);
+  background-color: var(--welcome-bg);
+  width: 38px;
+  height: 38px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.panel .mail-icon:hover {
+  background-color: var(--welcome-btn);
+  border: 1.5px solid var(--hamburger);
+  box-shadow: 0 5px var(--hamburger);
+}
+
+.see-projects {
+  display: none;
+}
+
+/*.....................*/
+
+/* 2. About Section */
+#about-section {
+  min-height: 45vh;
+  color: var(--portfolio-subtopic);
+}
+
+#about-section .topic {
+  color: var(--portfolio-topic);
+}
+
+/*.....................*/
+#about-section, #portfolio-section {
+  background-color: var(--portfolio-bg);
+}
+
+/* 3. Portfolio Section */
+#portfolio-section {  
+  min-height: 100vh;
+  color: var(--portfolio-subtopic);
+}
+
+#portfolio-section .topic, #portfolio-section .subtopic {
+  text-align: center;
+}
+
+#portfolio-section .topic {
+  color: var(--portfolio-topic);
+}
+
+#portfolio-section .subtopic{
+  color: var(--portfolio-subtopic);
+}
+
+#portfolio-section .section-container .projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  padding: 20px;
+  place-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+#portfolio-section .section-container .projects .project-tile{
+  height: 400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  border-radius: 5px;
+  box-shadow: 8px 8px 10px 5px rgba(100, 100, 100, 0.3);
+}
+
+#portfolio-section .section-container .projects .project-tile img {
+  height: 100%; 
+  width: 100%;
+  object-fit: cover;
+}
+
+.show-all {
+  width: max-content;
+  margin: 5% auto;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: var(--welcome-btn);
+  color: var(--welcome-btn-text);
+}
+
+.show-all {
+  margin: 5% auto;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border: transparent solid 2px #cf5600;
+  padding: 10px 30px 10px 20px;
+  background-color: var(--welcome-btn);
+  color: var(--welcome-btn-text);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bolder;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.show-all:hover {
+  
+  box-shadow: 0 5px #cf5600;
+}
+/*.....................*/
+
+/* 3. Connect Section */
+#connect-section {
+  background-color: rgb(255, 0, 157);
+}
+/*.....................*/
+
+/*Section defaults*/
+section {
+  min-height: 100vh;
+}
+
+.topic{
+  color: #1f1235;
+  font-size: 2rem;
+}
+
+.subtopic {
+  color: #1b1425;
+  font-size: 1.5rem;
+}
+
+.section-container {
+  margin: 5rem 1rem 0;
+}
+
+
+/*----------------END OF SECTIONS------------------*/
+
+
+
+/*----------------FOOTER------------------*/
+/*----------------END------------------*/
+@media screen and (max-height: 500px) {
+  body {
+    font-size: 1rem;
+  }
+  section {
+    min-height: 120vh;
+  }
+  #about-section {
+    min-height: 80vh
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .nav-bar {
+    justify-content: center;
+  }
+
+  .inner-nav {
+    width: 90%;
+  }
+
+  .hamburger, .bar {
+    display: none;
+  }
+
+  .nav-modal {
+    position:static;
+    width: 40%;
+  }
+
+  .nav-menu{
+    display: flex;
+    align-self: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+  }  
+
+  .nav-item{
+    border: none;
+    padding: 1% 0;
+    color: #000000;
+  }
+
+  .topic {
+    font-size: 2.5rem;
+  }
+
+  .section-container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  #welcome-section .section-container {
+    margin-top: 10rem
+  }  
+
+  .bottomcard {
+    width: 60%;
+  }
+
+  .panel {
+    width: 100%;
+    align-self: flex-start;
+    margin-left: 0;
+  }
+
+  #about-section, #projects-section {
+    font-size: 1.5em;
+  }
+
+  #about-section .section-container {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .header {
+    width: 40vw;
+    float: left; 
+    text-align: left;
+    margin-top: 5%;
+  }
+
+  .midcard {
+    width: 40vw;
+    max-height: 80vh;
+    float: right;
+    margin-left: 5%;
+    margin-top: 1%;
+  }
+
+  .bottomcard {
+    width: 40vw;
+    float: left;
+    margin-top: 2%;
+    font-size: 1.5em;
+  }
+
+  .bottomcard .panel {
+    width: 70%;
+  }
+
+  .see-projects {
+    width: max-content;
+    float: right;
+    display: grid;
+    margin: auto 40% 0;
+    border-radius: 10px;
+    border: transparent solid 2px;
+    padding: 10px 30px 10px;
+    background-color: var(--welcome-btn);
+    color: var(--welcome-btn-text);
+    font-size: 1rem;
+    font-weight: bolder;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  
+  .see-projects:hover {
+    border: 2px solid;
+    box-shadow: 0 5px var(--hamburger);
+  }
+}
+
