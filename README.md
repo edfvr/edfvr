@@ -1,5 +1,6 @@
-# Ed Sagoe
-Hi I'm Edmund. I love designing and building websites. My goal is to become a full stack developer. I have built some projects with Python. Currently I'm learning React JS in addition to my HTML and CSS skills so I can build more exciting websites.
+# Ed Sagoe 
+## pronounced "say go"
+Hi I'm Edmund. I love designing and building websites. My goal is to become a full stack developer. I have built some projects with Python. Currently I'm learning React JS in addition to my HTML and CSS skills so I can build much more exciting websites.
 
 Skills summary
 ---
@@ -7,6 +8,10 @@ Skills summary
 - Python
 - Learning JavaScript and React
 - Still making progress with C
-- I know a little bit about SQL
+- I know a little SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edfvr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+You can connect with me on [LinkedIn](https://edfvr.github.io/edsagoe-website/)
+
+Language Stats
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edfvr&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
