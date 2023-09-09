@@ -10,7 +10,7 @@ Skills summary
 - Still making progress with C
 - I know a little SQL
 
-You can connect with me on [LinkedIn](https://edfvr.github.io/edsagoe-website/)
+You can connect with me on [LinkedIn](https://linkedin.com/in/edmund-sagoe)
 
 Language Stats
 ---
