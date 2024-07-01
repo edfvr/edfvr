@@ -12,12 +12,11 @@ I'm a passionate Front-End Developer with a strong background in UI/UX design. I
 - **Version Control:** Git, GitHub
 - **Testing:** Jest
 - **Design Tools:** Figma
-- 
+
 ## 🌱 Currently Learning
 
 - Advanced JavaScript concepts
 - Next.js for server-side rendering and static site generation
-- Web accessibility best practices
 
 You can connect with me on [LinkedIn](https://linkedin.com/in/edmund-sagoe)
 
