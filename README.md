@@ -1,14 +1,23 @@
 # Ed Sagoe 
 ## pronounced "say go"
-Hi I'm Edmund. I love designing and building websites. My goal is to become a full stack developer. I have built some projects with Python. Currently I'm learning React JS in addition to my HTML and CSS skills so I can build much more exciting websites.
+I'm a passionate Front-End Developer with a strong background in UI/UX design. I enjoy creating intuitive and dynamic user interfaces using modern web technologies. Here's a bit about me and my work:
 
-Skills summary
----
-- HTML and CSS
-- Python
-- Learning JavaScript and React
-- Still making progress with C
-- I know a little SQL
+## 🚀 Skills and Technologies
+
+- **Languages:** JavaScript, Python, C, HTML, CSS
+- **Frameworks/Libraries:** React JS, Sass, Bootstrap
+
+## 🛠️ Tools and Platforms
+
+- **Version Control:** Git, GitHub
+- **Testing:** Jest
+- **Design Tools:** Figma
+- 
+## 🌱 Currently Learning
+
+- Advanced JavaScript concepts
+- Next.js for server-side rendering and static site generation
+- Web accessibility best practices
 
 You can connect with me on [LinkedIn](https://linkedin.com/in/edmund-sagoe)
 
